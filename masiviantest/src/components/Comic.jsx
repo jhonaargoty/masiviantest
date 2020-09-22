@@ -7,6 +7,7 @@ export class Comic extends Component {
         return (
             <div>
                 <DataComic/>
+                <br></br>
                 <Qualification/>
             </div>
         )

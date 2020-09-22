@@ -1,0 +1,14 @@
+.star:hover ~ .star {
+  color: yellow;
+}
+.star:hover{
+  color: yellow;
+  font-size: 30px;
+}
+.qadiv{
+    direction: rtl
+}
+
+.active{
+    color: red
+}
