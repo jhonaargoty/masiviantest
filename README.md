@@ -15,6 +15,7 @@ Clone down this repository. You will need `node` and `npm` installed globally on
 Installation:
 
 `npm install`  
+`npm i axios`
 
 To Run Test Suite:  
 
